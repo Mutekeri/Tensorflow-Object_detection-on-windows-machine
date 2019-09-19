@@ -1,6 +1,6 @@
 # Tensorflow-Object_detection-on-windows-machine
 Using anaconda Jupyter notebooks
-Please see the instruction word/pdf file. If there are any mistakes contact me on mikemutek@gmail.com
+Please see the instruction word/pdf file. If there are any mistakes contact me on mikemutek@reginaanalytics.co.za
 If you will require a walk through video also contact me on the same email i can start develop it
 
 # TensorFlow graph data files
